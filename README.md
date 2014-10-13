@@ -13,7 +13,7 @@ Please download and install VirtualBox for your machine (https://www.virtualbox.
 Please download the Pegasus Tutorial Virtual Machine (http://pegasus.isi.edu/pegasus/download?filename=4.4.0/PegasusTutorialVM-4.4.1cvs.vmdk.zip).  
 
 
-If you are not familiar with XML, here are a few recommending readings
+If you are not familiar with XML, here are a few recommended readings
 ----------------------------------------------------------------------
 http://www.w3schools.com/xml/default.asp  
 http://www.w3schools.com/xml/xml_whatis.asp  
